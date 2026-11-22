@@ -1,0 +1,31 @@
+{
+  "run_id": "G03_M1+A0_dev_s13_20261122-114314",
+  "group_id": "G03",
+  "config": "M1+A0",
+  "memory": "M1",
+  "adapter": "A0",
+  "seed": 13,
+  "split": "dev",
+  "config_hash": "f1c935f7080e",
+  "adapter_hash": "none",
+  "backend": "mock",
+  "prompt_hash": "20043fdea53f",
+  "corpus_hash": "6e449a2a1669",
+  "n_sessions": 10,
+  "wall_clock_s": 0.1,
+  "python": "3.14.7",
+  "summary": {
+    "score": 53.5,
+    "accuracy": 0.7,
+    "citation_f1": 0.7,
+    "abstain_f1": 0.0,
+    "memory_recall": 0.0,
+    "efficiency": 1.0,
+    "tokens_per_turn": 1012.8,
+    "latency_p50_ms": 13,
+    "latency_p95_ms": 16,
+    "ungrounded_rate": 0,
+    "n_turns": 10
+  },
+  "warning": "MOCK BACKEND - not valid for submission"
+}

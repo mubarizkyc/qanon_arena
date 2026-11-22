@@ -1,0 +1,11 @@
+group_id,config,memory,adapter,seed,split,session_id,turn,family,correct,cite_precision,cite_recall,abstain_expected,abstained,memory_recall,ungrounded_cites,parse_ok,tokens_in,tokens_out,latency_ms,mem_tokens,failure_code
+G03,M1+A0,M1,A0,13,dev,DEV-T1-0001,1,T1,1,1.0,1.0,0,0,,0,1,1232,50,16,0,
+G03,M1+A0,M1,A0,13,dev,DEV-T1-0002,1,T1,0,0.0,0.0,0,0,,0,1,1196,39,13,0,
+G03,M1+A0,M1,A0,13,dev,DEV-T1-0003,1,T1,0,0.0,0.0,0,0,,0,1,1053,40,9,0,
+G03,M1+A0,M1,A0,13,dev,DEV-T1-0004,1,T1,1,1.0,1.0,0,0,,0,1,1205,43,14,0,
+G03,M1+A0,M1,A0,13,dev,DEV-T1-0005,1,T1,1,1.0,1.0,0,0,,0,1,1268,38,9,0,
+G03,M1+A0,M1,A0,13,dev,DEV-T1-0006,1,T1,1,1.0,1.0,0,0,,0,1,1003,37,10,0,
+G03,M1+A0,M1,A0,13,dev,DEV-T1-0007,1,T1,1,1.0,1.0,0,0,,0,1,644,36,8,0,
+G03,M1+A0,M1,A0,13,dev,DEV-T1-0008,1,T1,1,1.0,1.0,0,0,,0,1,735,40,9,0,
+G03,M1+A0,M1,A0,13,dev,DEV-T1-0009,1,T1,1,1.0,1.0,0,0,,0,1,733,39,16,0,
+G03,M1+A0,M1,A0,13,dev,DEV-T1-0010,1,T1,0,0.0,0.0,0,0,,0,1,654,43,14,0,
