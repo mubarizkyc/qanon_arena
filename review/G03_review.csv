@@ -1,0 +1,11 @@
+session_id,decision,reason
+G01-T1-01,accept,Correctly cites CA-30 (wager void) and quote supports the answer.
+G01-T1-02,accept,Correctly cites LA-19 (acknowledgment in writing) and quote is accurate.
+G01-T2-01,accept,Cites SHC-106015 and correctly identifies the revision was dismissed.
+G01-T2-02,accept,Cites SHC-143667 and correctly identifies the appeal was allowed.
+G01-T3-01,accept,Turn 5 genuinely requires the fact from Turn 1 (generator for wedding); cites CA-160 correctly.
+G01-T3-02,accept,Turn 5 genuinely requires the fact from Turn 1 (papers given to agent); cites CA-221 correctly.
+G01-T4-01,accept,Section 73 CA mentioned in Turn 1; correctly identifies 1981 amendment and quote matches.
+G01-T4-02,accept,Section 10 CA mentioned in Turn 1; correctly identifies 1960 amendment and quote matches.
+G01-T5-01,accept,Court Fees Act is outside the corpus; correctly abstains with empty citations.
+G01-T5-02,accept,PECA 2016 is outside the corpus; correctly abstains with empty citations.
